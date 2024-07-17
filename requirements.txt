@@ -1,0 +1,2 @@
+pycountry==24.6.1
+setuptools==70.3.0
